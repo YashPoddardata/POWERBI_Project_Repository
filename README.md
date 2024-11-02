@@ -28,28 +28,27 @@ The company also needs to investigate the region and products where the sales an
 
   (a) Overall Summary
   
-  ![Screenshot 2024-11-02 194737](https://github.com/user-attachments/assets/1ba87cce-f3c8-4182-b294-9ab8e1dfa6f4)
+  ![Screenshot 2024-11-02 233654](https://github.com/user-attachments/assets/9d713649-f11c-40d5-b9fc-27cb8b356127)
 
   (b) Sales Summary
   
-  ![Screenshot 2024-11-02 194753](https://github.com/user-attachments/assets/2a776fd6-b1a8-4b71-b8e2-7bf72c260d72)
+  ![Screenshot 2024-11-02 233712](https://github.com/user-attachments/assets/98c6ad06-3776-40f8-a85f-ffda73723f6a)
   
   (c) Category: Subcategories and Category level insights on sales and profits on for different categories
   
-  ![Screenshot 2024-11-02 194815](https://github.com/user-attachments/assets/3916cc9e-a9e2-4e43-b83f-96f74cda5020)
+  ![Screenshot 2024-11-02 233917](https://github.com/user-attachments/assets/b17ce898-b430-4ea3-8e14-67760dd737b2)
   
-  (d) Sucategory: Product and Subcategories level insights on sales and profits on for different sub-categories
+  (d) Subcategory: Product and Subcategories level insights on sales and profits on for different sub-categories
   
-  ![Screenshot 2024-11-02 194837](https://github.com/user-attachments/assets/e18b54c1-446c-4444-8323-2a911e830218)
+  ![Screenshot 2024-11-02 234011](https://github.com/user-attachments/assets/14015873-dbcf-4513-8a48-30d18f0a98c3)
   
   (e) Region: Regional trends for sales and profit
   
-  ![Screenshot 2024-11-02 195212](https://github.com/user-attachments/assets/c5a31351-29dc-4faf-a097-d4436781b78e)
+  ![Screenshot 2024-11-02 234130](https://github.com/user-attachments/assets/c14b3f56-50b1-4b8c-868c-ffcabbc67626)
   
   (f) Salesperson: Sales overview for a sales person
   
-  ![Screenshot 2024-11-02 195228](https://github.com/user-attachments/assets/7164e8ad-f167-4347-91f7-683c5065200e)
-
+  ![Screenshot 2024-11-02 234258](https://github.com/user-attachments/assets/6e948ad7-e1f4-4554-861f-7fa04f51b5d3)
 
 
 # Snapshot of Dashboard (Power BI Service)

@@ -1,7 +1,5 @@
 # Adventure-Sales-Dashboard
 
-### Dashboard Link :
-
 ## Problem Statement
 
 This dashboard helps the adventure sales, a bike manufacturer, analyse and understand their sales and profitaility by product, regions and categories. 
@@ -51,9 +49,22 @@ The company also needs to investigate the region and products where the sales an
   ![Screenshot 2024-11-02 234258](https://github.com/user-attachments/assets/6e948ad7-e1f4-4554-861f-7fa04f51b5d3)
 
 
-# Snapshot of Dashboard (Power BI Service)
+Other Attributes
+
+1) Visual highlight
+   
+        changed to cross filtering from cross highlighting
+
+2) Drillthrough
+   
+       Overall Summary -> Region, Salesperson, Category
+       Overall Summary-> Sales Summary-> Category-> Subcategory
+
+3) Header
+   
+        Every Page header has Filters with regions and category
+        Metrics which track sales, profit and margin for current filter context
 
 
-# Insights
 
 
